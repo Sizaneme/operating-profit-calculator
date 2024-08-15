@@ -5,7 +5,6 @@ body {
     padding: 20px;
     background-color: #f4f4f4;
 }
-
 .calculator {
     background-color: white;
     border-radius: 8px;
@@ -14,17 +13,14 @@ body {
     max-width: 500px;
     margin: 0 auto;
 }
-
 h1 {
     color: #333;
     text-align: center;
 }
-
 label {
     display: block;
     margin-top: 10px;
 }
-
 input[type="number"] {
     width: 100%;
     padding: 8px;
@@ -33,7 +29,6 @@ input[type="number"] {
     border-radius: 4px;
     box-sizing: border-box;
 }
-
 button {
     display: block;
     width: 100%;
@@ -45,11 +40,9 @@ button {
     cursor: pointer;
     margin-top: 20px;
 }
-
 button:hover {
     background-color: #753FE4;
 }
-
 #result {
     margin-top: 20px;
     font-weight: bold;
